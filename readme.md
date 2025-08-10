@@ -11,11 +11,8 @@
 
 
 
-Join Zoom Meeting
-https://us05web.zoom.us/j/83848754069?pwd=jssSSafDje9of9HkT8BbhUFn4EcoA1.1
+setup /configure Configuration.xml
 
-Meeting ID:  838 4875 4069
-Passcode: J3x6aY
-
-
+[url1](https://config.office.com/deploymentsettings)
+[url2](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 
