@@ -7,3 +7,15 @@
 6. [math1-6.pdf](https://drive.google.com/file/d/1aOtWxG1eW9JdW2lKh8LFHd_eAN-0ynbH/view?usp=drive_link)
 7. [math1-7.pdf](https://drive.google.com/file/d/1zuLWE4JsF6M-o0nxCZ_LIV8F6F9lZ9ss/view?usp=drive_link)
 8. [math1-8.pdf](https://drive.google.com/file/d/1To3TqaKC5VNqM2WFcEmT-24Td9mo7s77/view?usp=drive_link)
+
+
+
+
+Join Zoom Meeting
+https://us05web.zoom.us/j/83848754069?pwd=jssSSafDje9of9HkT8BbhUFn4EcoA1.1
+
+Meeting ID:  838 4875 4069
+Passcode: J3x6aY
+
+
+
